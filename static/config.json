@@ -1,0 +1,39 @@
+{
+  "github_username": "pma934",
+  "github_perpage": 5,
+  "github_percomments": 10,
+  "ClientID": {
+    "development": "becf2ccd805bbd02704f",
+    "production": "ca59308e4fb0e9315900"
+  },
+  "ClientSecret": {
+    "development": "954d24e4d14633a8918c94d1f84a63b2809b50d3",
+    "production": "18412ef16d5a3dd246be41719f70a3f268bdd52d"
+  },
+  "bgiUrl": [
+    "https://s2.ax1x.com/2019/02/07/ktdwGV.md.jpg",
+    "https://s2.ax1x.com/2019/02/07/ktdbdA.md.jpg",
+    "https://s2.ax1x.com/2019/02/07/ktd8Kg.md.jpg",
+    "https://s2.ax1x.com/2019/02/07/ktdGrQ.md.jpg",
+    "https://s2.ax1x.com/2019/02/07/ktdtVs.md.jpg",
+    "https://s2.ax1x.com/2019/02/07/ktdJbj.md.jpg",
+    "https://s2.ax1x.com/2019/02/07/ktdNan.md.jpg",
+    "https://s2.ax1x.com/2019/02/07/ktdBxU.md.jpg",
+    "https://s2.ax1x.com/2019/02/07/ktdU5q.md.jpg",
+    "https://s2.ax1x.com/2019/02/07/ktddP0.md.jpg",
+    "https://s2.ax1x.com/2019/02/07/ktdsr4.md.jpg",
+    "https://s2.ax1x.com/2019/02/07/ktd02T.md.jpg",
+    "https://s2.ax1x.com/2019/02/07/ktdyqJ.md.jpg",
+    "https://s2.ax1x.com/2019/02/07/ktdrMF.md.jpg",
+    "https://s2.ax1x.com/2019/02/07/ktdcZ9.md.jpg",
+    "https://s2.ax1x.com/2019/02/07/ktdHZd.md.jpg",
+    "https://s2.ax1x.com/2019/02/07/ktd2I1.md.jpg",
+    "https://s2.ax1x.com/2019/02/07/ktdfG6.md.png",
+    "https://s2.ax1x.com/2019/02/07/ktd4xO.md.png",
+    "https://s2.ax1x.com/2019/02/07/ktdWPx.md.jpg",
+    "https://s2.ax1x.com/2019/02/07/ktdhRK.md.jpg",
+    "https://s2.ax1x.com/2019/02/07/ktdose.md.jpg",
+    "https://s2.ax1x.com/2019/02/07/ktdIMD.md.jpg",
+    "https://s2.ax1x.com/2019/02/07/ktdTqH.md.jpg"
+  ]
+}
