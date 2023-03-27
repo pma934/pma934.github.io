@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkblog"]=self["webpackChunkblog"]||[]).push([[633],{5633:function(e,n,r){r.r(n),r.d(n,{default:function(){return a}});var t=r(5309);function u(e,n,r,u,c,l){return(0,t.openBlock)(),(0,t.createElementBlock)("div",null,"Pen")}var c={},l=r(89);const o=(0,l.Z)(c,[["render",u]]);var a=o}}]);
+//# sourceMappingURL=633.413d1da2.js.map
